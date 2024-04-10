@@ -15,10 +15,10 @@ This applciation allows to make a blog in that allow you add comments and post b
   
   ## Usage
   The application that is be used teh command line prompt: "npm i" and "node server.js".
-  ![screnshot]()
+  ![screenshot]()
   
   ## Contributing
-[Video to application]()
+[Video to application](https://tec-blog-8-7423bee68757.herokuapp.com)
   
   ## Tests
   [Link to application](https://tec-blog-87-f67c630d1c40.herokuapp.com)
